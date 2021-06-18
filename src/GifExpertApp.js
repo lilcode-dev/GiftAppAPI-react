@@ -5,7 +5,7 @@ import './GifExpertApp.css'
 
 const GifExpertApp = () => {
     // 'Kimetsu No Yaiba', 'Boku No Hero', 'Black Clover'
-    const [categories, setCategories] = useState(['Boku No Hero'])
+    const [categories, setCategories] = useState(['Jujutsu Kaisen'])
     return (
         <>
             <h2>GifExpertApp</h2>
